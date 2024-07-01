@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm Adi Pramana, a cheerful developer from Denpasar, Bali, who loves to create and contribute to open-source projects. I also enjoy playing the guitar and ukulele in my free time.
+I'm Adi Pramana, a cheerful developer from Denpasar, Bali. I specialize in front-end development and have a keen interest in UI/UX design. I have a passion for creating beautiful and user-friendly web applications. When I'm not coding, you'll find me strumming my guitar or playing the ukulele. Let's connect and create something amazing together! 🌟
 
 # 💫 About Me:
 - 🌱 I’m currently learning React JS<br>- 👯 I’m looking to collaborate on web development projects<br>- 💬 Ask me about React, and front-end development<br>- 📫 How to reach me: adipram@gmail.com<br>- 😄 Pronouns: he/him<br>- ⚡ Fun fact: I enjoy playing guitar and ukulele!<br>
