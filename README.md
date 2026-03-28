@@ -40,27 +40,6 @@
 * Figma (UI/UX)
 * Postman
   
----
-
-## 📌 Featured Project
-
-### 🛕 Tri Upakara Platform
-
-> A web-based platform for ordering **banten/upakara** from local vendors.
-
-**Tech Stack:**
-
-* Next.js
-* Supabase (PostgreSQL)
-* Tailwind CSS
-
-**Features:**
-
-* 🛒 Product browsing & ordering
-* 👥 Multi-vendor support
-* 📅 Booking system
-* 🔐 Authentication system
-
 
 ---
 
