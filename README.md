@@ -49,8 +49,3 @@
 * 🌐 Portfolio: [adipramana.vercel.app](https://adipramana.vercel.app/)
 * 💼 LinkedIn: [linkedin.com/in/dekadii01](https://www.linkedin.com/in/dekadii/)
 
----
-
-## ⚡ Fun Fact
-
-I enjoy turning ideas into real products and solving real-world problems through code 🚀
