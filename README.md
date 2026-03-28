@@ -61,14 +61,6 @@
 * 📅 Booking system
 * 🔐 Authentication system
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github.com/users/dekadii01/achievements/yolo" />
-  <img src="https://github.com/users/dekadii01/achievements/pull-shark" />
-</p>
 
 ---
 
