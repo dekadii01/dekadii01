@@ -7,10 +7,10 @@
 
 ## 🧑‍💻 About Me
 
-* 🎓 Information Systems student
-* 🌱 Currently learning: **Next.js, Laravel, System Architecture**
-* 🛠️ Focused on: **Fullstack Development & API Integration**
-* 🎯 Goal: Becoming a professional **Web Developer**
+*  Information Systems student
+*  Currently learning: **Next.js, Laravel, System Architecture**
+*  Focused on: **Fullstack Development & API Integration**
+*  Goal: Becoming a professional **Web Developer**
 
 ---
 
